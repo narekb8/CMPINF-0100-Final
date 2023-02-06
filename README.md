@@ -1,6 +1,6 @@
 # Best-Neighborhood
 ## CMPINF 0100 Final Project - Group 15
-### We were tasked with using datasets to prove which neighborhood in Pittsburgh is the best. Here is my contribution to the dataset.
+### We were tasked with using datasets to prove which neighborhood in Pittsburgh is the best. Here is my contribution to the dataset, moved to it's own repository as the group one was deleted.
 
 Narek Boghosian: 
   - email: NAB176@pitt.edu
